@@ -1,0 +1,6 @@
+{
+  "appId": "com.alomi.game",
+  "appName": "علومي حبيب قلبي ابو حسين",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
